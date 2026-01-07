@@ -6,15 +6,16 @@ A simple console-based nummber guessing game written in java.
 
 
 
+
 \## Features
 
--Random number generation
+->Random number generation
 
--User input handling
+->User input handling
 
--Attempt limit
+->Attempt limit
 
--Replay option
+->Replay option
 
 
 
